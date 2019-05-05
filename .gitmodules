@@ -1,3 +1,6 @@
 [submodule "bilm-tf"]
 	path = bilm-tf
 	url = https://github.com/m-stoeckel/bilm-tf
+[submodule "NGramTagger"]
+	path = NGramTagger
+	url = https://github.com/m-stoeckel/NGramTagger.git
